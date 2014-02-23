@@ -1,0 +1,13 @@
+%git clone https://github.com/Procoin-project/ProCoin-master.git
+ cloning in to procoin-master
+ %mv procoin-master procoin
+ %cd procoin
+ %rm -rf .git
+ %git init
+ initializing git repository in ~/procoin
+ %git add -A *
+ %git commit -m "first commit"
+ %git remote add origin https://github.com/Procoin-project/ProCoin.git
+ %git push -u origin master
+ username for git@github.com: jonathanm800@gmail.com
+ password for barcoin@github.com: cart5678
